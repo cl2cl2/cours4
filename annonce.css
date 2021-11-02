@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+}
+h1{
+    color: goldenrod;
+    font-family: Comic sans MS;
+    text-align: center;
+
+  
+}
+
+p2{
+    color: goldenrod;
+    font-family: Comic sans MS;
+    text-align: center;
+}
+p3{
+    color: goldenrod;
+    font-family: Comic sans MS;
+    text-align: center;
+}
+p4{
+    color:goldenrod;
+    font-family: Comic sans MS;
+    text-align: center; 
+}
+p5{
+    color: goldenrod;
+    font-family: Comic sans MS;
+    text-align: center; 
+}
+p{
+    font-family: Comic sans MS;
+    color: rgb(97, 59, 10);
+    text-align: center;
+img{
+    position: relative;
+    top: -85px;
+    left: 200px;
+}
+.p3{
+    
+
+
+
+
